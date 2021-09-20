@@ -15,7 +15,7 @@ The challenge was to create a responsive Card UI from a reference given.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/KanishkArora/Card-UI-web
 - Live Site URL: https://affectionate-ride-9dd280.netlify.app
 
 ### Built with
