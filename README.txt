@@ -13,10 +13,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 The challenge was to create a responsive Card UI from a reference given. 
 
-### Screenshot
-
-![](./screenshot.jpg)
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
